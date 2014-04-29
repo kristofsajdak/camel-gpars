@@ -1,0 +1,3 @@
+moduleName=camel-gpars-extension-module
+moduleVersion=1.0-SNAPSHOT
+extensionClasses=com.kristofsajdak.camel.gpars.CamelDslGparsTaskExtension,com.kristofsajdak.camel.gpars.CamelProducerGparsExtension

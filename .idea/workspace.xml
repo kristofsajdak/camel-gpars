@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b8c7627-9a89-4016-8407-fce926d8b02b" name="Default" comment="updated readme + post and reformatted some of the code" />
+    <ignored path="productdh-pricing.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398806638019" ignored="false" />
+    <file path="/pom.xml" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398252192584" ignored="false" />
+    <file path="/a.dummy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398721754264" ignored="false" />
+    <file path="/org.codehaus.groovy.runtime.ExtensionModule" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398725982205" ignored="false" />
+    <file path="/camel-dsl-async-processor.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398774387836" ignored="false" />
+    <file path="/test1.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398550289787" ignored="false" />
+    <file path="/test-support.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398623978162" ignored="false" />
+    <file path="/camel-producer-dataflow.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398713300022" ignored="false" />
+    <file path="/fragment.java" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398703748021" ignored="false" />
+    <file path="/test2.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397746499723" ignored="false" />
+    <file path="/test3.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397032942171" ignored="false" />
+    <file path="/test4.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397040739182" ignored="false" />
+    <file path="/test5.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397056580230" ignored="false" />
+    <file path="$PROJECT_DIR$/../anthonissen-ac-cdb-sync/src/main/java/com/kmoteam/cdbacsync/ac/CustomerService.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397227625080" ignored="false" />
+    <file path="/CustomerService.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397227568459" ignored="false" />
+    <file path="$PROJECT_DIR$/../anthonissen-ac-cdb-sync/src/main/java/com/kmoteam/cdbacsync/integration/SyncRoutes.java" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397227089694" ignored="false" />
+    <file path="$PROJECT_DIR$/../anthonissen-ac-cdb-sync/src/main/java/com/kmoteam/cdbacsync/ProcessingOutcomeUtils.java" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397207655870" ignored="false" />
+    <file path="$PROJECT_DIR$/../anthonissen-ac-cdb-sync/src/main/java/com/kmoteam/cdbacsync/ProcessingOutcomeUtils.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397207709713" ignored="false" />
+    <file path="/SyncRoutes.java" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397226971174" ignored="false" />
+    <file path="$PROJECT_DIR$/../anthonissen-ac-cdb-sync/src/test/java/com/kmoteam/cdbacsync/TestCustomerService.java" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397229122251" ignored="false" />
+    <file path="/TestCustomerService.java" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397229116716" ignored="false" />
+    <file path="$PROJECT_DIR$/../anthonissen-ac-cdb-sync/src/test/java/com/kmoteam/cdbacsync/TestCustomerService.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397229270421" ignored="false" />
+    <file path="/TestCustomerService.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397229225377" ignored="false" />
+    <file path="$PROJECT_DIR$/../anthonissen-ac-cdb-sync/src/main/java/com/kmoteam/cdbacsync/cdb/DossierNatuurlijkPersoonService.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397229813622" ignored="false" />
+    <file path="$PROJECT_DIR$/../techdoc3-frontend/techdoc3/web-app/src/main/java/com/tme/techdoc3/gwt/client/common/proxyloader/ProxyLoader.java" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1397572769447" ignored="false" />
+    <file path="/log4j.properties" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398181888545" ignored="false" />
+    <file path="/log4j.xml" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398714059638" ignored="false" />
+    <file path="/test6.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398549176483" ignored="false" />
+    <file path="/Dummy.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398701400745" ignored="false" />
+    <file path="/test7.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398459324473" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/taskResult.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398545508461" ignored="false" />
+    <file path="/post.forum.camel.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398805723580" ignored="false" />
+    <file path="/gpars-nested.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398551582158" ignored="false" />
+    <file path="/gpars-simple.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398551633444" ignored="false" />
+    <file path="/pure-vs-gpars.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398631281560" ignored="false" />
+    <file path="/camel-gpars-quote.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398624361822" ignored="false" />
+    <file path="/camel-quote-compare-performance-test.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398624929096" ignored="false" />
+    <file path="/camel-quote-tests.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398631282467" ignored="false" />
+    <file path="/camel-quote.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398702593485" ignored="false" />
+    <file path="/TestSupport.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398629492001" ignored="false" />
+    <file path="/camel-lowest-quote-timeout-example.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398726150439" ignored="false" />
+    <file path="/readme.md" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398726351331" ignored="false" />
+    <file path="/camel-quote-example.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398774183990" ignored="false" />
+    <file path="/README.md" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398770271888" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398806650946" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="jar://$MAVEN_REPOSITORY$/org/codehaus/gpars/gpars/1.0.0/gpars-1.0.0-sources.jar!/groovyx/gpars/GParsPool.groovy" line="116" class="groovyx.gpars.GParsPool" package="groovyx.gpars">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="jar://$MAVEN_REPOSITORY$/org/codehaus/gpars/gpars/1.0.0/gpars-1.0.0-sources.jar!/groovyx/gpars/Parallel.groovy" line="37" class="groovyx.gpars.Parallel" package="groovyx.gpars">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" line="36" class="com.kristofsajdak.camel.gpars.CamelDslGparsTaskExtension$0" package="com.kristofsajdak.camel.gpars">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" line="27" class="com.kristofsajdak.camel.gpars.CamelDslGparsTaskExtension$0" package="com.kristofsajdak.camel.gpars">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" line="24" class="com.kristofsajdak.camel.gpars.CamelDslGparsTaskExtension$0" package="com.kristofsajdak.camel.gpars">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" line="32" class="com.kristofsajdak.camel.gpars.CamelDslGparsTaskExtension$0" package="com.kristofsajdak.camel.gpars">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="productdh-pricing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="29" selection-start="779" selection-end="779" vertical-scroll-proportion="0.49170125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-gpars.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/test-support.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-compare-performance-test.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-perf-test.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/TestSupport.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-tests.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-producer-dataflow.groovy" />
+        <option value="$PROJECT_DIR$/src/test/resources/log4j.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/services/org.codehaus.groovy.runtime.ExtensionModule" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-lowest-quote-timeout-example.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-example.groovy" />
+        <option value="$PROJECT_DIR$/post.forum.camel.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Camel Gpars" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Profiles" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProfilesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="790" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="productdh-pricing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="productdh-pricing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gpars-camel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="productdh-pricing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gpars-camel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="productdh-pricing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gpars-camel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="productdh-pricing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gpars-camel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gpars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="productdh-pricing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gpars-camel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gpars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camel-dsl-async-processor.groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kristofsajdak.camel.gpars" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kristofsajdak.camel.gpars" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kristofsajdak/gpars-camel" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Groovy.camel-quote-example">
+    <configuration default="false" name="gpars-nested-tests" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="camel-gpars" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/gpars-nested-tests.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars" />
+      <setting name="debug" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="gpars-simple-example" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="camel-gpars" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/gpars-simple-example.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars" />
+      <setting name="debug" value="false" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="camel-quote-tests" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="camel-gpars" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-tests.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars" />
+      <setting name="debug" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+        <option name="JVMPI" value="false" />
+        <option name="INTERPRETED" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="JProfiler" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="camel-quote-example" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="camel-gpars" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-example.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars" />
+      <setting name="debug" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="camel-lowest-quote-timeout-example" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="camel-gpars" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-lowest-quote-timeout-example.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars" />
+      <setting name="debug" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Groovy.gpars-nested-tests" />
+      <item index="1" class="java.lang.String" itemvalue="Groovy.gpars-simple-example" />
+      <item index="2" class="java.lang.String" itemvalue="Groovy.camel-quote-tests" />
+      <item index="3" class="java.lang.String" itemvalue="Groovy.camel-quote-example" />
+      <item index="4" class="java.lang.String" itemvalue="Groovy.camel-lowest-quote-timeout-example" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Groovy.camel-quote-example" />
+        <item index="1" class="java.lang.String" itemvalue="Groovy.camel-lowest-quote-timeout-example" />
+        <item index="2" class="java.lang.String" itemvalue="Groovy.camel-quote-tests" />
+        <item index="3" class="java.lang.String" itemvalue="Groovy.gpars-simple-example" />
+        <item index="4" class="java.lang.String" itemvalue="Groovy.gpars-nested-tests" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <changelist date="1398425975546">
+      <option name="PATH" value="$USER_HOME$/Library/Preferences/IntelliJIdea12/shelf/bla.patch" />
+      <option name="DESCRIPTION" value="bla" />
+    </changelist>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b8c7627-9a89-4016-8407-fce926d8b02b" name="Default" comment="" />
+      <created>1396970746226</created>
+      <updated>1396970746226</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1396971841555</created>
+      <updated>1396971841555</updated>
+    </task>
+    <task id="LOCAL-00002" summary="scales and never blocks">
+      <created>1396989571502</created>
+      <updated>1396989571502</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finally async is faster than sync">
+      <created>1398200673802</created>
+      <updated>1398200673802</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactored a bit&#10;marshall json now in camel, renamed flowRequestBody to requestBodyAsPromise">
+      <created>1398253037201</created>
+      <updated>1398253037201</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactored a bit&#10; and added a dsl routebuilder">
+      <created>1398352130817</created>
+      <updated>1398352130817</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactored dsl routebuilder a bit more">
+      <created>1398353921047</created>
+      <updated>1398353921047</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added test6.groovy which demonstrates how to compose several levels of whenAllBound together&#10;simplified test1.groovy a bit">
+      <created>1398411948589</created>
+      <updated>1398411948589</updated>
+    </task>
+    <task id="LOCAL-00008" summary="removed some redundant files + old comments">
+      <created>1398412599910</created>
+      <updated>1398412599910</updated>
+    </task>
+    <task id="LOCAL-00009" summary="removed some redundant files + old comments">
+      <created>1398413139614</created>
+      <updated>1398413139614</updated>
+    </task>
+    <task id="LOCAL-00010" summary="removed some redundant files + old comments">
+      <created>1398413417982</created>
+      <updated>1398413417982</updated>
+    </task>
+    <task id="LOCAL-00011" summary="removed some redundant files + old comments">
+      <created>1398424352930</created>
+      <updated>1398424352930</updated>
+    </task>
+    <task id="LOCAL-00012" summary="bla">
+      <created>1398425975810</created>
+      <updated>1398425975810</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added some additional code to gpars routes&#10;extra check returning 404&#10;compose query params">
+      <created>1398456691828</created>
+      <updated>1398456691828</updated>
+    </task>
+    <task id="LOCAL-00014" summary="implemented gpars route functionality in pure dsl routebuilder">
+      <created>1398458038498</created>
+      <updated>1398458038498</updated>
+    </task>
+    <task id="LOCAL-00015" summary="adde  some readme content">
+      <created>1398464221014</created>
+      <updated>1398464221014</updated>
+    </task>
+    <task id="LOCAL-00016" summary="adde  some readme content">
+      <created>1398464260877</created>
+      <updated>1398464260877</updated>
+    </task>
+    <task id="LOCAL-00017" summary="refactored processAsync dsl to task, this simplifies the camel-dsl-async-processor.groovy code as well.&#10;the closure is now fed to a task, all outcomes are assigned to a dataflow variable which on completion will complete the underlying camel async processor callback &#10;&#10;also removed fork join example and scrap test7">
+      <created>1398547267344</created>
+      <updated>1398547267344</updated>
+    </task>
+    <task id="LOCAL-00018" summary="adde  some readme content">
+      <created>1398547287920</created>
+      <updated>1398547287920</updated>
+    </task>
+    <task id="LOCAL-00019" summary="more work on the readme">
+      <created>1398550335550</created>
+      <updated>1398550335550</updated>
+    </task>
+    <task id="LOCAL-00020" summary="more work on preparing the project">
+      <created>1398550722739</created>
+      <updated>1398550722739</updated>
+    </task>
+    <task id="LOCAL-00021" summary="removed some of the unnecessary tweaks to the camel context components">
+      <created>1398552135842</created>
+      <updated>1398552135842</updated>
+    </task>
+    <task id="LOCAL-00022" summary="temp commit refactoring">
+      <created>1398701582171</created>
+      <updated>1398701582171</updated>
+    </task>
+    <task id="LOCAL-00023" summary="temp commit refactoring">
+      <created>1398702223013</created>
+      <updated>1398702223013</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added select example">
+      <created>1398722640825</created>
+      <updated>1398722640825</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added select example">
+      <created>1398723974089</created>
+      <updated>1398723974089</updated>
+    </task>
+    <task id="LOCAL-00026" summary="edited the post">
+      <created>1398725966169</created>
+      <updated>1398725966169</updated>
+    </task>
+    <task id="LOCAL-00027" summary="changed the version of the extension module">
+      <created>1398726006633</created>
+      <updated>1398726006633</updated>
+    </task>
+    <task id="LOCAL-00028" summary="adapted the test a bit">
+      <created>1398726210856</created>
+      <updated>1398726210856</updated>
+    </task>
+    <task id="LOCAL-00029" summary="refactored the tests a bit">
+      <created>1398726314125</created>
+      <updated>1398726314125</updated>
+    </task>
+    <task id="LOCAL-00030" summary="updated readme + post and reformatted some of the code">
+      <created>1398769027589</created>
+      <updated>1398769027589</updated>
+    </task>
+    <task id="LOCAL-00031" summary="updated readme + post and reformatted some of the code">
+      <created>1398805808726</created>
+      <updated>1398805808726</updated>
+    </task>
+    <task id="LOCAL-00032" summary="updated readme + post and reformatted some of the code">
+      <created>1398806358578</created>
+      <updated>1398806358578</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="790" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5587829" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264463" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.43983403" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264177" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44027779" sideWeight="0.67270195" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50899035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494759" sideWeight="0.43983403" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3259053" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated readme + post and reformatted some of the code" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="scales and never blocks" />
+    <MESSAGE value="finally async is faster than sync" />
+    <MESSAGE value="refactored a bit&#10;marshall json now in camel, renamed flowRequestBody to requestBodyAsPromise" />
+    <MESSAGE value="refactored a bit&#10; and added a dsl routebuilder" />
+    <MESSAGE value="refactored dsl routebuilder a bit more" />
+    <MESSAGE value="added test6.groovy which demonstrates how to compose several levels of whenAllBound together&#10;simplified test1.groovy a bit" />
+    <MESSAGE value="removed some redundant files + old comments" />
+    <MESSAGE value="bla" />
+    <MESSAGE value="added some additional code to gpars routes&#10;extra check returning 404&#10;compose query params" />
+    <MESSAGE value="implemented gpars route functionality in pure dsl routebuilder" />
+    <MESSAGE value="refactored processAsync dsl to task, this simplifies the camel-dsl-async-processor.groovy code as well.&#10;the closure is now fed to a task, all outcomes are assigned to a dataflow variable which on completion will complete the underlying camel async processor callback &#10;&#10;also removed fork join example and scrap test7" />
+    <MESSAGE value="adde  some readme content" />
+    <MESSAGE value="more work on the readme" />
+    <MESSAGE value="more work on preparing the project" />
+    <MESSAGE value="removed some of the unnecessary tweaks to the camel context components" />
+    <MESSAGE value="temp commit refactoring" />
+    <MESSAGE value="added select example" />
+    <MESSAGE value="edited the post" />
+    <MESSAGE value="changed the version of the extension module" />
+    <MESSAGE value="adapted the test a bit" />
+    <MESSAGE value="refactored the tests a bit" />
+    <MESSAGE value="updated readme + post and reformatted some of the code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-all/2.1.6/groovy-all-2.1.6-sources.jar!/groovy/util/GroovyCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-all/2.1.6/groovy-all-2.1.6-sources.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1295" column="24" selection-start="47555" selection-end="47555" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/gpars/gpars/1.1.0/gpars-1.1.0-sources.jar!/groovyx/gpars/dataflow/Promise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/gpars/gpars/1.1.0/gpars-1.1.0-sources.jar!/groovyx/gpars/group/PGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="572" column="24" selection-start="26238" selection-end="26238" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/services/org.codehaus.groovy.runtime.ExtensionModule">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="26" selection-start="66" selection-end="66" vertical-scroll-proportion="0.021156559" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/TestSupport.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/gpars/gpars/1.1.0/gpars-1.1.0-sources.jar!/groovyx/gpars/dataflow/Dataflow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="351" column="33" selection-start="16766" selection-end="16766" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/gpars/gpars/1.1.0/gpars-1.1.0-sources.jar!/groovyx/gpars/dataflow/Select.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="46" selection-start="4818" selection-end="4818" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/gpars/gpars/1.1.0/gpars-1.1.0-sources.jar!/groovyx/gpars/dataflow/impl/ThenMessagingRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="39" selection-start="1052" selection-end="1052" vertical-scroll-proportion="0.2728532">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-lowest-quote-timeout-example.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="53" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.34020618" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-example.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="78" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.3079179" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post.forum.camel.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="0" selection-start="4509" selection-end="4509" vertical-scroll-proportion="0.9234043">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="29" selection-start="779" selection-end="779" vertical-scroll-proportion="0.49170125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>camel-gpars</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.ning:async-http-client:1.7.19</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
