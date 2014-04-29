@@ -7,6 +7,8 @@ Some example snippets can be found below, check the tests dir for full code exam
 
 * parallel outbound calls
 
+    ```groovy
+
     from("jetty:http://0.0.0.0:8080/quote").task({ Exchange exchange ->
 
         final headers = [(Exchange.HTTP_QUERY): exchange.in.headers[Exchange.HTTP_QUERY]]
@@ -22,8 +24,12 @@ Some example snippets can be found below, check the tests dir for full code exam
     from("direct:discounts").to("ahc:http://0.0.0.0:8087/discounts").unmarshal(json)
     from("direct:prices").to("ahc:http://0.0.0.0:8088/prices").unmarshal(json)
 
+    ```
+
 
 * parallel scatter-gather with timeout
+
+    ```groovy
 
     from("direct:lowest").task({ Exchange exchange ->
 
@@ -45,3 +51,4 @@ Some example snippets can be found below, check the tests dir for full code exam
     from("direct:quote2").to("ahc:http://0.0.0.0:8081/quote").unmarshal(json)
     from("direct:quote3").to("ahc:http://0.0.0.0:8082/quote").unmarshal(json)
 
+    ```

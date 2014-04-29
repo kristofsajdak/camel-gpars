@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b8c7627-9a89-4016-8407-fce926d8b02b" name="Default" comment="updated readme + post and reformatted some of the code" />
+    <list default="true" id="1b8c7627-9a89-4016-8407-fce926d8b02b" name="Default" comment="updated readme + post and reformatted some of the code">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="productdh-pricing.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398806638019" ignored="false" />
@@ -47,8 +50,7 @@
     <file path="/camel-lowest-quote-timeout-example.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398726150439" ignored="false" />
     <file path="/readme.md" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398726351331" ignored="false" />
     <file path="/camel-quote-example.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398774183990" ignored="false" />
-    <file path="/README.md" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398770271888" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398806650946" ignored="false" />
+    <file path="/README.md" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398807355803" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,52 +132,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" line="36" class="com.kristofsajdak.camel.gpars.CamelDslGparsTaskExtension$0" package="com.kristofsajdak.camel.gpars">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" line="27" class="com.kristofsajdak.camel.gpars.CamelDslGparsTaskExtension$0" package="com.kristofsajdak.camel.gpars">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
       <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" line="24" class="com.kristofsajdak.camel.gpars.CamelDslGparsTaskExtension$0" package="com.kristofsajdak.camel.gpars">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" line="32" class="com.kristofsajdak.camel.gpars.CamelDslGparsTaskExtension$0" package="com.kristofsajdak.camel.gpars">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -204,7 +161,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="29" selection-start="779" selection-end="779" vertical-scroll-proportion="0.49170125">
+            <state line="53" column="7" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.813278">
               <folding />
             </state>
           </provider>
@@ -241,9 +198,9 @@
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/services/org.codehaus.groovy.runtime.ExtensionModule" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-lowest-quote-timeout-example.groovy" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-example.groovy" />
         <option value="$PROJECT_DIR$/post.forum.camel.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -346,6 +303,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -427,7 +388,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -837,7 +798,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -859,7 +820,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264177" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44027779" sideWeight="0.67270195" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44027779" sideWeight="0.67270195" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50899035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494759" sideWeight="0.43983403" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1018,21 +979,18 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-lowest-quote-timeout-example.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="39" selection-start="1052" selection-end="1052" vertical-scroll-proportion="0.2728532">
+        <state line="35" column="53" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.34020618">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-lowest-quote-timeout-example.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="53" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.34020618" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-example.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="78" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.3079179" />
+        <state line="64" column="78" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.3079179">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/post.forum.camel.txt">
@@ -1042,9 +1000,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="19" selection-start="1448" selection-end="1448" vertical-scroll-proportion="1.0580913">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="29" selection-start="779" selection-end="779" vertical-scroll-proportion="0.49170125">
+        <state line="53" column="7" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.813278">
           <folding />
         </state>
       </provider>
@@ -1107,6 +1072,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
