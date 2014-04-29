@@ -85,9 +85,9 @@ Unlike the aggregationStrategy the whenAllBound Closure has named variables refe
 This is a simple yet powerful api concept which can be composed in a variety of ways with other promises, no need to mark headers or apply any tricks !
 
 
-You can find the full commented code for this (camel-quote-example.groovy) along with other examples in my camel-gpars github repo :
+You can find the full commented code for this along with other examples in my camel-gpars github repo :
 
-https://github.com/kristofsajdak/camel-gpars
+https://github.com/kristofsajdak/camel-gpars/blob/master/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-example.groovy
 
 Have a look and let me know what you think ?
 

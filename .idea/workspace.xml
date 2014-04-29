@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b8c7627-9a89-4016-8407-fce926d8b02b" name="Default" comment="updated readme + post and reformatted some of the code">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    <list default="true" id="1b8c7627-9a89-4016-8407-fce926d8b02b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/post.forum.camel.txt" afterPath="$PROJECT_DIR$/post.forum.camel.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="productdh-pricing.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398806638019" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398807488750" ignored="false" />
     <file path="/pom.xml" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398252192584" ignored="false" />
     <file path="/a.dummy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398721754264" ignored="false" />
     <file path="/org.codehaus.groovy.runtime.ExtensionModule" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398725982205" ignored="false" />
@@ -158,10 +158,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="post.forum.camel.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/post.forum.camel.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="7" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.813278">
+            <state line="89" column="0" selection-start="4768" selection-end="4768" vertical-scroll-proportion="1.54371">
               <folding />
             </state>
           </provider>
@@ -199,9 +199,9 @@
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-lowest-quote-timeout-example.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-example.groovy" />
-        <option value="$PROJECT_DIR$/post.forum.camel.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/post.forum.camel.txt" />
       </list>
     </option>
   </component>
@@ -793,7 +793,15 @@
       <created>1398806358578</created>
       <updated>1398806358578</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="updated README.md with markdown sugar">
+      <created>1398807388548</created>
+      <updated>1398807388548</updated>
+    </task>
+    <task id="LOCAL-00034" summary="updated README.md with markdown sugar">
+      <created>1398807493718</created>
+      <updated>1398807493718</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -811,6 +819,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3259053" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264463" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -826,7 +835,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3259053" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -872,7 +880,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated readme + post and reformatted some of the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated README.md with markdown sugar" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -909,6 +917,7 @@
     <MESSAGE value="adapted the test a bit" />
     <MESSAGE value="refactored the tests a bit" />
     <MESSAGE value="updated readme + post and reformatted some of the code" />
+    <MESSAGE value="updated README.md with markdown sugar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -945,13 +954,6 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/gpars/gpars/1.1.0/gpars-1.1.0-sources.jar!/groovyx/gpars/group/PGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="572" column="24" selection-start="26238" selection-end="26238" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/services/org.codehaus.groovy.runtime.ExtensionModule">
@@ -993,13 +995,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post.forum.camel.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="0" selection-start="4509" selection-end="4509" vertical-scroll-proportion="0.9234043">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/camel-dsl-async-processor.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="19" selection-start="1448" selection-end="1448" vertical-scroll-proportion="1.0580913">
@@ -1007,9 +1002,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="7" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.813278">
+        <state line="47" column="47" selection-start="1637" selection-end="1637" vertical-scroll-proportion="1.2759336">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post.forum.camel.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="0" selection-start="4768" selection-end="4768" vertical-scroll-proportion="1.54371">
           <folding />
         </state>
       </provider>
