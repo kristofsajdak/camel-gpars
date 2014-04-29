@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1b8c7627-9a89-4016-8407-fce926d8b02b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camel-gpars.iml" afterPath="$PROJECT_DIR$/camel-gpars.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="productdh-pricing.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398808718462" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398809108806" ignored="false" />
     <file path="/pom.xml" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398252192584" ignored="false" />
     <file path="/a.dummy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398721754264" ignored="false" />
     <file path="/org.codehaus.groovy.runtime.ExtensionModule" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398725982205" ignored="false" />
@@ -51,8 +50,8 @@
     <file path="/camel-lowest-quote-timeout-example.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398726150439" ignored="false" />
     <file path="/readme.md" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398726351331" ignored="false" />
     <file path="/camel-quote-example.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398774183990" ignored="false" />
-    <file path="/README.md" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398809071235" ignored="false" />
-    <file path="$PROJECT_DIR$/../gpars-camel/.idea/workspace.xml" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398808763874" ignored="false" />
+    <file path="/README.md" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398809171165" ignored="false" />
+    <file path="$PROJECT_DIR$/../gpars-camel/.idea/workspace.xml" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398809113545" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +162,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="10" selection-start="212" selection-end="212" vertical-scroll-proportion="0.21784233">
+            <state line="5" column="69" selection-start="170" selection-end="170" vertical-scroll-proportion="0.15560167">
               <folding />
             </state>
           </provider>
@@ -863,14 +862,18 @@
       <created>1398807882290</created>
       <updated>1398807882290</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="updated the README to correct the example description">
+      <created>1398809111131</created>
+      <updated>1398809111131</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -942,7 +945,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the forum post before sending it out" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the README to correct the example description" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -956,7 +959,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="initial commit" />
     <MESSAGE value="scales and never blocks" />
     <MESSAGE value="finally async is faster than sync" />
     <MESSAGE value="refactored a bit&#10;marshall json now in camel, renamed flowRequestBody to requestBodyAsPromise" />
@@ -981,6 +983,7 @@
     <MESSAGE value="updated readme + post and reformatted some of the code" />
     <MESSAGE value="updated README.md with markdown sugar" />
     <MESSAGE value="updated the forum post before sending it out" />
+    <MESSAGE value="updated the README to correct the example description" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1074,7 +1077,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="212" selection-end="212" vertical-scroll-proportion="0.21784233">
+        <state line="5" column="69" selection-start="170" selection-end="170" vertical-scroll-proportion="0.15560167">
           <folding />
         </state>
       </provider>

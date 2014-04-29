@@ -3,7 +3,7 @@ camel-gpars
 
 This groovy extension module integrates Gpars Dataflows into Apache Camel.
 
-Some example snippets can be found below, check the tests dir for full code examples with comments.
+Some example snippets can be found below, check out the tests dir for full code examples with comments.
 
 * compose parallel outbound calls
 
