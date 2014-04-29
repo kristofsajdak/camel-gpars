@@ -52,3 +52,4 @@ Some example snippets can be found below, check the tests dir for full code exam
     from("direct:quote3").to("ahc:http://0.0.0.0:8082/quote").unmarshal(json)
 
     ```
+
