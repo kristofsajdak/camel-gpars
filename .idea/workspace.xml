@@ -7,7 +7,7 @@
     </list>
     <ignored path="productdh-pricing.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398807488750" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398807879060" ignored="false" />
     <file path="/pom.xml" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398252192584" ignored="false" />
     <file path="/a.dummy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398721754264" ignored="false" />
     <file path="/org.codehaus.groovy.runtime.ExtensionModule" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398725982205" ignored="false" />
@@ -38,7 +38,7 @@
     <file path="/Dummy.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398701400745" ignored="false" />
     <file path="/test7.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398459324473" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/com/kristofsajdak/camel/gpars/taskResult.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398545508461" ignored="false" />
-    <file path="/post.forum.camel.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398805723580" ignored="false" />
+    <file path="/post.forum.camel.txt" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398808199252" ignored="false" />
     <file path="/gpars-nested.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398551582158" ignored="false" />
     <file path="/gpars-simple.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398551633444" ignored="false" />
     <file path="/pure-vs-gpars.groovy" changelist="1b8c7627-9a89-4016-8407-fce926d8b02b" time="1398631281560" ignored="false" />
@@ -161,7 +161,7 @@
       <file leaf-file-name="post.forum.camel.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/post.forum.camel.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="0" selection-start="4768" selection-end="4768" vertical-scroll-proportion="1.54371">
+            <state line="92" column="0" selection-start="4863" selection-end="4863" vertical-scroll-proportion="0.64818764">
               <folding />
             </state>
           </provider>
@@ -801,7 +801,11 @@
       <created>1398807493718</created>
       <updated>1398807493718</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="updated the forum post before sending it out">
+      <created>1398807882290</created>
+      <updated>1398807882290</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -880,7 +884,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated README.md with markdown sugar" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the forum post before sending it out" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -918,6 +922,7 @@
     <MESSAGE value="refactored the tests a bit" />
     <MESSAGE value="updated readme + post and reformatted some of the code" />
     <MESSAGE value="updated README.md with markdown sugar" />
+    <MESSAGE value="updated the forum post before sending it out" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1018,7 +1023,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/post.forum.camel.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="0" selection-start="4768" selection-end="4768" vertical-scroll-proportion="1.54371">
+        <state line="92" column="0" selection-start="4863" selection-end="4863" vertical-scroll-proportion="0.64818764">
           <folding />
         </state>
       </provider>

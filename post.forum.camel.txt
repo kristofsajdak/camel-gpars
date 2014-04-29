@@ -82,12 +82,13 @@ In the example above I am using the whenAllBound function to wait ( in a non-blo
 Unlike the aggregationStrategy the whenAllBound Closure has named variables referring to price and discount bound values, the variables are declared in the same order as the Promises were registered in whenAllBound.
 
 
-This is a simple yet powerful api concept which can be composed in a variety of ways with other promises, no need to mark headers or apply any tricks !
+In my view this is a simple yet powerful api concept which can be composed in a variety of ways with other promises.
 
 
 You can find the full commented code for this along with other examples in my camel-gpars github repo :
 
 https://github.com/kristofsajdak/camel-gpars/blob/master/src/test/java/com/kristofsajdak/camel/gpars/camel-quote-example.groovy
+
 
 Have a look and let me know what you think ?
 
