@@ -3,9 +3,13 @@ package com.kristofsajdak.camel.gpars
 import groovyx.gpars.dataflow.DataflowVariable
 import org.apache.camel.Exchange
 import org.apache.camel.builder.RouteBuilder
+import org.apache.camel.component.ahc.AhcOperationFailedException
 import org.apache.camel.component.jackson.JacksonDataFormat
 import org.apache.camel.util.StopWatch
 import org.apache.camel.util.URISupport
+
+import java.util.concurrent.Executors
+import java.util.concurrent.TimeUnit
 
 import static com.kristofsajdak.camel.gpars.CamelSync2StepAsync.*
 
@@ -20,21 +24,27 @@ public class CamelSync2StepAsync {
         context.addRoutes(new RouteBuilder() {
             @Override
             void configure() throws Exception {
+
+                final pool = Executors.newScheduledThreadPool(20)
+
                 from("jetty:http://0.0.0.0:8080/").task({ Exchange exchange ->
 
                     def result = new DataflowVariable<>()
                     def step1 = template.requestBodyAndHeadersAsPromise("direct:step1", exchange.in.body as String, [:])
-                    step1.then({ ticketId ->
-                        println "ticketId: $ticketId"
+                    step1.then({ step1Answer ->
 
                         def step2Closure
                         step2Closure = {
-                            final step2 = template.requestBodyAndHeadersAsPromise("direct:step2", "", [(Exchange.HTTP_QUERY): constant("ticket_id=" + ticketId)])
-                            step2.then({ String correlatedAnswer ->
+
+                            final step2 = template.requestBodyAndHeadersAsPromise("direct:step2", "",
+                                [(Exchange.HTTP_QUERY): constant("ticket_id=" + step1Answer.ticket_id)])
+
+                            step2.then({ correlatedAnswer ->
                                 result << correlatedAnswer
                             }, { e ->
-                                Thread.sleep(1000)
-                                step2Closure()
+                                if (e instanceof AhcOperationFailedException && e.statusCode == 404) {
+                                    pool.schedule(step2Closure as Runnable, 1, TimeUnit.SECONDS)
+                                } else result << e
                             })
                         }
 
@@ -42,8 +52,9 @@ public class CamelSync2StepAsync {
 
                     })
 
-                    result
-                })
+                    return result
+
+                }).marshal(json)
 
                 from("direct:step1").to("ahc:http://0.0.0.0:8088/step1").unmarshal(json)
                 from("direct:step2").to("ahc:http://0.0.0.0:8088/step2").unmarshal(json)
@@ -79,13 +90,15 @@ public class CamelSync2StepAsync {
 
                 from("jetty:http://0.0.0.0:8088/step2").process { Exchange exchange ->
                     final ticketId = parseUriQueryParams(exchange).ticket_id
-                    /*if (times<=3) {
+                    if (times < 3) {
+                        // fake 404 3 times
                         times++
                         exchange.out.body = ""
                         exchange.out.setHeader(Exchange.HTTP_RESPONSE_CODE, 404)
-                    } else {*/
-                        exchange.out.body = [response: "foobar"]
-                    //}
+                    } else {
+                        // pass back a response for the requested ticketId the 4th time
+                        exchange.out.body = [ticket_id: ticketId, response: "foobar $ticketId".toString()]
+                    }
 
                 }.marshal(json)
             }
