@@ -36,7 +36,7 @@ public class CamelSync2StepAsync {
                         step2Closure = {
 
                             final step2 = template.requestBodyAndHeadersAsPromise("direct:step2", "",
-                                    [(Exchange.HTTP_QUERY): constant("ticket_id=" + step1Answer.ticket_id)])
+                                    [(Exchange.HTTP_QUERY): "ticket_id=" + step1Answer.ticket_id])
 
                             step2.then({ correlatedAnswer ->
                                 if (correlatedAnswer.response != null) {
@@ -77,11 +77,11 @@ public class CamelSync2StepAsync {
                         .to("ahc:http://0.0.0.0:8088/step1?bridgeEndpoint=true").unmarshal(json)
                         .setHeader(Exchange.HTTP_QUERY, { "ticket_id=${it.in.body.ticket_id}" })
                         .loop(30)
-                            .delay(500)
-                            .setBody(constant(""))
-                            .to("ahc:http://0.0.0.0:8088/step2?bridgeEndpoint=true").unmarshal(json)
-                                .choice()
-                                    .when({ ex -> ex.in.body.response != null }).marshal(json).stop()
+                        .delay(500)
+                        .setBody(constant(""))
+                        .to("ahc:http://0.0.0.0:8088/step2?bridgeEndpoint=true").unmarshal(json)
+                        .choice()
+                        .when({ ex -> ex.in.body.response != null }).marshal(json).stop()
 
             }
         })
@@ -144,8 +144,8 @@ public class CamelSync2StepAsync {
 final mocksContext = mocksContext()
 mocksContext.start()
 
-//print singleRequest(gparsContext())
-print singleRequest(puredslContext())
+print singleRequest(gparsContext())
+//print singleRequest(puredslContext())
 
 mocksContext.stop()
 
